@@ -1,0 +1,28 @@
+{
+  "Student": [
+    {
+      "registration_number": "U20230001",
+      "name": "Student 1",
+      "department": "Electronics",
+      "year": 2024,
+      "seat_number": "A9",
+      "id": "8da7"
+    },
+    {
+      "registration_number": "U20230002",
+      "name": "Student 2",
+      "department": "Mechanical",
+      "year": 2024,
+      "seat_number": "A2",
+      "id": "c6ec"
+    },
+    {
+      "registration_number": "a",
+      "name": "Student 2",
+      "department": "Mechanical",
+      "year": 2024,
+      "seat_number": "A3",
+      "id": "c6lc"
+    }
+  ]
+}

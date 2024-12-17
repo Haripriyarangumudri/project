@@ -1,0 +1,34 @@
+
+.menu-card {
+  position: fixed;  
+  top: 0;
+  left: 0;          
+  width: 250px;     
+  height: 100vh;    
+  background-color: #05445e; 
+  box-shadow: 2px 0 10px rgba(0, 0, 0, 0.3); 
+  padding: 20px;
+  z-index: 1000;
+  transition: transform 0.3s ease-in-out;  
+}
+
+.menu-card .nav-link {
+  color: white !important; 
+  font-size: 1rem;
+  padding: 15px;
+  text-align: left; 
+  display: block;
+  text-decoration: none;
+}
+
+.menu-card .nav-link:hover {
+  color: #80ced7 !important;
+  background-color: #033649;
+  border-radius: 4px;
+}
+
+
+.navbar-toggler-icon {
+  width: 30px;
+  height: 25px;
+}

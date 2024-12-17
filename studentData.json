@@ -1,0 +1,1404 @@
+{
+    "Student":[
+    {
+        "registration_number": "U20230001",
+        "name": "Student 1",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-001"
+    },
+    {
+        "registration_number": "U20230002",
+        "name": "Student 2",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-002"
+    },
+    {
+        "registration_number": "U20230003",
+        "name": "Student 3",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-003"
+    },
+    {
+        "registration_number": "U20230004",
+        "name": "Student 4",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-004"
+    },
+    {
+        "registration_number": "U20230005",
+        "name": "Student 5",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-005"
+    },
+    {
+        "registration_number": "U20230006",
+        "name": "Student 6",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-006"
+    },
+    {
+        "registration_number": "U20230007",
+        "name": "Student 7",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-007"
+    },
+    {
+        "registration_number": "U20230008",
+        "name": "Student 8",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-008"
+    },
+    {
+        "registration_number": "U20230009",
+        "name": "Student 9",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-009"
+    },
+    {
+        "registration_number": "U20230010",
+        "name": "Student 10",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-010"
+    },
+    {
+        "registration_number": "U20230011",
+        "name": "Student 11",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-011"
+    },
+    {
+        "registration_number": "U20230012",
+        "name": "Student 12",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-012"
+    },
+    {
+        "registration_number": "U20230013",
+        "name": "Student 13",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-013"
+    },
+    {
+        "registration_number": "U20230014",
+        "name": "Student 14",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-014"
+    },
+    {
+        "registration_number": "U20230015",
+        "name": "Student 15",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-015"
+    },
+    {
+        "registration_number": "U20230016",
+        "name": "Student 16",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-016"
+    },
+    {
+        "registration_number": "U20230017",
+        "name": "Student 17",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-017"
+    },
+    {
+        "registration_number": "U20230018",
+        "name": "Student 18",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-018"
+    },
+    {
+        "registration_number": "U20230019",
+        "name": "Student 19",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-019"
+    },
+    {
+        "registration_number": "U20230020",
+        "name": "Student 20",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-020"
+    },
+    {
+        "registration_number": "U20230021",
+        "name": "Student 21",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-021"
+    },
+    {
+        "registration_number": "U20230022",
+        "name": "Student 22",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-022"
+    },
+    {
+        "registration_number": "U20230023",
+        "name": "Student 23",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-023"
+    },
+    {
+        "registration_number": "U20230024",
+        "name": "Student 24",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-024"
+    },
+    {
+        "registration_number": "U20230025",
+        "name": "Student 25",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-025"
+    },
+    {
+        "registration_number": "U20230026",
+        "name": "Student 26",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-026"
+    },
+    {
+        "registration_number": "U20230027",
+        "name": "Student 27",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-027"
+    },
+    {
+        "registration_number": "U20230028",
+        "name": "Student 28",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-028"
+    },
+    {
+        "registration_number": "U20230029",
+        "name": "Student 29",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-029"
+    },
+    {
+        "registration_number": "U20230030",
+        "name": "Student 30",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-030"
+    },
+    {
+        "registration_number": "U20230031",
+        "name": "Student 31",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-031"
+    },
+    {
+        "registration_number": "U20230032",
+        "name": "Student 32",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-032"
+    },
+    {
+        "registration_number": "U20230033",
+        "name": "Student 33",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-033"
+    },
+    {
+        "registration_number": "U20230034",
+        "name": "Student 34",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-034"
+    },
+    {
+        "registration_number": "U20230035",
+        "name": "Student 35",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-035"
+    },
+    {
+        "registration_number": "U20230036",
+        "name": "Student 36",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-036"
+    },
+    {
+        "registration_number": "U20230037",
+        "name": "Student 37",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-037"
+    },
+    {
+        "registration_number": "U20230038",
+        "name": "Student 38",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-038"
+    },
+    {
+        "registration_number": "U20230039",
+        "name": "Student 39",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-039"
+    },
+    {
+        "registration_number": "U20230040",
+        "name": "Student 40",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-040"
+    },
+    {
+        "registration_number": "U20230041",
+        "name": "Student 41",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-041"
+    },
+    {
+        "registration_number": "U20230042",
+        "name": "Student 42",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-042"
+    },
+    {
+        "registration_number": "U20230043",
+        "name": "Student 43",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-043"
+    },
+    {
+        "registration_number": "U20230044",
+        "name": "Student 44",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-044"
+    },
+    {
+        "registration_number": "U20230045",
+        "name": "Student 45",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-045"
+    },
+    {
+        "registration_number": "U20230046",
+        "name": "Student 46",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-046"
+    },
+    {
+        "registration_number": "U20230047",
+        "name": "Student 47",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-047"
+    },
+    {
+        "registration_number": "U20230048",
+        "name": "Student 48",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-048"
+    },
+    {
+        "registration_number": "U20230049",
+        "name": "Student 49",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-049"
+    },
+    {
+        "registration_number": "U20230050",
+        "name": "Student 50",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-050"
+    },
+    {
+        "registration_number": "U20230051",
+        "name": "Student 51",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-051"
+    },
+    {
+        "registration_number": "U20230052",
+        "name": "Student 52",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-052"
+    },
+    {
+        "registration_number": "U20230053",
+        "name": "Student 53",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-053"
+    },
+    {
+        "registration_number": "U20230054",
+        "name": "Student 54",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-054"
+    },
+    {
+        "registration_number": "U20230055",
+        "name": "Student 55",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-055"
+    },
+    {
+        "registration_number": "U20230056",
+        "name": "Student 56",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-056"
+    },
+    {
+        "registration_number": "U20230057",
+        "name": "Student 57",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-057"
+    },
+    {
+        "registration_number": "U20230058",
+        "name": "Student 58",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-058"
+    },
+    {
+        "registration_number": "U20230059",
+        "name": "Student 59",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-059"
+    },
+    {
+        "registration_number": "U20230060",
+        "name": "Student 60",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-060"
+    },
+    {
+        "registration_number": "U20230061",
+        "name": "Student 61",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-061"
+    },
+    {
+        "registration_number": "U20230062",
+        "name": "Student 62",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-062"
+    },
+    {
+        "registration_number": "U20230063",
+        "name": "Student 63",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-063"
+    },
+    {
+        "registration_number": "U20230064",
+        "name": "Student 64",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-064"
+    },
+    {
+        "registration_number": "U20230065",
+        "name": "Student 65",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-065"
+    },
+    {
+        "registration_number": "U20230066",
+        "name": "Student 66",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-066"
+    },
+    {
+        "registration_number": "U20230067",
+        "name": "Student 67",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-067"
+    },
+    {
+        "registration_number": "U20230068",
+        "name": "Student 68",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-068"
+    },
+    {
+        "registration_number": "U20230069",
+        "name": "Student 69",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-069"
+    },
+    {
+        "registration_number": "U20230070",
+        "name": "Student 70",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-070"
+    },
+    {
+        "registration_number": "U20230071",
+        "name": "Student 71",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-071"
+    },
+    {
+        "registration_number": "U20230072",
+        "name": "Student 72",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-072"
+    },
+    {
+        "registration_number": "U20230073",
+        "name": "Student 73",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-073"
+    },
+    {
+        "registration_number": "U20230074",
+        "name": "Student 74",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-074"
+    },
+    {
+        "registration_number": "U20230075",
+        "name": "Student 75",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-075"
+    },
+    {
+        "registration_number": "U20230076",
+        "name": "Student 76",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-076"
+    },
+    {
+        "registration_number": "U20230077",
+        "name": "Student 77",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-077"
+    },
+    {
+        "registration_number": "U20230078",
+        "name": "Student 78",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-078"
+    },
+    {
+        "registration_number": "U20230079",
+        "name": "Student 79",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-079"
+    },
+    {
+        "registration_number": "U20230080",
+        "name": "Student 80",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-080"
+    },
+    {
+        "registration_number": "U20230081",
+        "name": "Student 81",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-081"
+    },
+    {
+        "registration_number": "U20230082",
+        "name": "Student 82",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-082"
+    },
+    {
+        "registration_number": "U20230083",
+        "name": "Student 83",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-083"
+    },
+    {
+        "registration_number": "U20230084",
+        "name": "Student 84",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-084"
+    },
+    {
+        "registration_number": "U20230085",
+        "name": "Student 85",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-085"
+    },
+    {
+        "registration_number": "U20230086",
+        "name": "Student 86",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-086"
+    },
+    {
+        "registration_number": "U20230087",
+        "name": "Student 87",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-087"
+    },
+    {
+        "registration_number": "U20230088",
+        "name": "Student 88",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-088"
+    },
+    {
+        "registration_number": "U20230089",
+        "name": "Student 89",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-089"
+    },
+    {
+        "registration_number": "U20230090",
+        "name": "Student 90",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-090"
+    },
+    {
+        "registration_number": "U20230091",
+        "name": "Student 91",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-091"
+    },
+    {
+        "registration_number": "U20230092",
+        "name": "Student 92",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-092"
+    },
+    {
+        "registration_number": "U20230093",
+        "name": "Student 93",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-093"
+    },
+    {
+        "registration_number": "U20230094",
+        "name": "Student 94",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-094"
+    },
+    {
+        "registration_number": "U20230095",
+        "name": "Student 95",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-095"
+    },
+    {
+        "registration_number": "U20230096",
+        "name": "Student 96",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-096"
+    },
+    {
+        "registration_number": "U20230097",
+        "name": "Student 97",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-097"
+    },
+    {
+        "registration_number": "U20230098",
+        "name": "Student 98",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-098"
+    },
+    {
+        "registration_number": "U20230099",
+        "name": "Student 99",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-099"
+    },
+    {
+        "registration_number": "U20230100",
+        "name": "Student 100",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-100"
+    },
+    {
+        "registration_number": "U20230101",
+        "name": "Student 101",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-101"
+    },
+    {
+        "registration_number": "U20230102",
+        "name": "Student 102",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-102"
+    },
+    {
+        "registration_number": "U20230103",
+        "name": "Student 103",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-103"
+    },
+    {
+        "registration_number": "U20230104",
+        "name": "Student 104",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-104"
+    },
+    {
+        "registration_number": "U20230105",
+        "name": "Student 105",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-105"
+    },
+    {
+        "registration_number": "U20230106",
+        "name": "Student 106",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-106"
+    },
+    {
+        "registration_number": "U20230107",
+        "name": "Student 107",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-107"
+    },
+    {
+        "registration_number": "U20230108",
+        "name": "Student 108",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-108"
+    },
+    {
+        "registration_number": "U20230109",
+        "name": "Student 109",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-109"
+    },
+    {
+        "registration_number": "U20230110",
+        "name": "Student 110",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-110"
+    },
+    {
+        "registration_number": "U20230111",
+        "name": "Student 111",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-111"
+    },
+    {
+        "registration_number": "U20230112",
+        "name": "Student 112",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-112"
+    },
+    {
+        "registration_number": "U20230113",
+        "name": "Student 113",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-113"
+    },
+    {
+        "registration_number": "U20230114",
+        "name": "Student 114",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-114"
+    },
+    {
+        "registration_number": "U20230115",
+        "name": "Student 115",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-115"
+    },
+    {
+        "registration_number": "U20230116",
+        "name": "Student 116",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-116"
+    },
+    {
+        "registration_number": "U20230117",
+        "name": "Student 117",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-117"
+    },
+    {
+        "registration_number": "U20230118",
+        "name": "Student 118",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-118"
+    },
+    {
+        "registration_number": "U20230119",
+        "name": "Student 119",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-119"
+    },
+    {
+        "registration_number": "U20230120",
+        "name": "Student 120",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-120"
+    },
+    {
+        "registration_number": "U20230121",
+        "name": "Student 121",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-121"
+    },
+    {
+        "registration_number": "U20230122",
+        "name": "Student 122",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-122"
+    },
+    {
+        "registration_number": "U20230123",
+        "name": "Student 123",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-123"
+    },
+    {
+        "registration_number": "U20230124",
+        "name": "Student 124",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-124"
+    },
+    {
+        "registration_number": "U20230125",
+        "name": "Student 125",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-125"
+    },
+    {
+        "registration_number": "U20230126",
+        "name": "Student 126",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-126"
+    },
+    {
+        "registration_number": "U20230127",
+        "name": "Student 127",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-127"
+    },
+    {
+        "registration_number": "U20230128",
+        "name": "Student 128",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-128"
+    },
+    {
+        "registration_number": "U20230129",
+        "name": "Student 129",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-129"
+    },
+    {
+        "registration_number": "U20230130",
+        "name": "Student 130",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-130"
+    },
+    {
+        "registration_number": "U20230131",
+        "name": "Student 131",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-131"
+    },
+    {
+        "registration_number": "U20230132",
+        "name": "Student 132",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-132"
+    },
+    {
+        "registration_number": "U20230133",
+        "name": "Student 133",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-133"
+    },
+    {
+        "registration_number": "U20230134",
+        "name": "Student 134",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-134"
+    },
+    {
+        "registration_number": "U20230135",
+        "name": "Student 135",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-135"
+    },
+    {
+        "registration_number": "U20230136",
+        "name": "Student 136",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-136"
+    },
+    {
+        "registration_number": "U20230137",
+        "name": "Student 137",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-137"
+    },
+    {
+        "registration_number": "U20230138",
+        "name": "Student 138",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-138"
+    },
+    {
+        "registration_number": "U20230139",
+        "name": "Student 139",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-139"
+    },
+    {
+        "registration_number": "U20230140",
+        "name": "Student 140",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-140"
+    },
+    {
+        "registration_number": "U20230141",
+        "name": "Student 141",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-141"
+    },
+    {
+        "registration_number": "U20230142",
+        "name": "Student 142",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-142"
+    },
+    {
+        "registration_number": "U20230143",
+        "name": "Student 143",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-143"
+    },
+    {
+        "registration_number": "U20230144",
+        "name": "Student 144",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-144"
+    },
+    {
+        "registration_number": "U20230145",
+        "name": "Student 145",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-145"
+    },
+    {
+        "registration_number": "U20230146",
+        "name": "Student 146",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-146"
+    },
+    {
+        "registration_number": "U20230147",
+        "name": "Student 147",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-147"
+    },
+    {
+        "registration_number": "U20230148",
+        "name": "Student 148",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-148"
+    },
+    {
+        "registration_number": "U20230149",
+        "name": "Student 149",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-149"
+    },
+    {
+        "registration_number": "U20230150",
+        "name": "Student 150",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-150"
+    },
+    {
+        "registration_number": "U20230151",
+        "name": "Student 151",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-151"
+    },
+    {
+        "registration_number": "U20230152",
+        "name": "Student 152",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-152"
+    },
+    {
+        "registration_number": "U20230153",
+        "name": "Student 153",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-153"
+    },
+    {
+        "registration_number": "U20230154",
+        "name": "Student 154",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-154"
+    },
+    {
+        "registration_number": "U20230155",
+        "name": "Student 155",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-155"
+    },
+    {
+        "registration_number": "U20230156",
+        "name": "Student 156",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-156"
+    },
+    {
+        "registration_number": "U20230157",
+        "name": "Student 157",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-157"
+    },
+    {
+        "registration_number": "U20230158",
+        "name": "Student 158",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-158"
+    },
+    {
+        "registration_number": "U20230159",
+        "name": "Student 159",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-159"
+    },
+    {
+        "registration_number": "U20230160",
+        "name": "Student 160",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-160"
+    },
+    {
+        "registration_number": "U20230161",
+        "name": "Student 161",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-161"
+    },
+    {
+        "registration_number": "U20230162",
+        "name": "Student 162",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-162"
+    },
+    {
+        "registration_number": "U20230163",
+        "name": "Student 163",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-163"
+    },
+    {
+        "registration_number": "U20230164",
+        "name": "Student 164",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-164"
+    },
+    {
+        "registration_number": "U20230165",
+        "name": "Student 165",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-165"
+    },
+    {
+        "registration_number": "U20230166",
+        "name": "Student 166",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-166"
+    },
+    {
+        "registration_number": "U20230167",
+        "name": "Student 167",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-167"
+    },
+    {
+        "registration_number": "U20230168",
+        "name": "Student 168",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-168"
+    },
+    {
+        "registration_number": "U20230169",
+        "name": "Student 169",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-169"
+    },
+    {
+        "registration_number": "U20230170",
+        "name": "Student 170",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-170"
+    },
+    {
+        "registration_number": "U20230171",
+        "name": "Student 171",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-171"
+    },
+    {
+        "registration_number": "U20230172",
+        "name": "Student 172",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-172"
+    },
+    {
+        "registration_number": "U20230173",
+        "name": "Student 173",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-173"
+    },
+    {
+        "registration_number": "U20230174",
+        "name": "Student 174",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-174"
+    },
+    {
+        "registration_number": "U20230175",
+        "name": "Student 175",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-175"
+    },
+    {
+        "registration_number": "U20230176",
+        "name": "Student 176",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-176"
+    },
+    {
+        "registration_number": "U20230177",
+        "name": "Student 177",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-177"
+    },
+    {
+        "registration_number": "U20230178",
+        "name": "Student 178",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-178"
+    },
+    {
+        "registration_number": "U20230179",
+        "name": "Student 179",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-179"
+    },
+    {
+        "registration_number": "U20230180",
+        "name": "Student 180",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-180"
+    },
+    {
+        "registration_number": "U20230181",
+        "name": "Student 181",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-181"
+    },
+    {
+        "registration_number": "U20230182",
+        "name": "Student 182",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-182"
+    },
+    {
+        "registration_number": "U20230183",
+        "name": "Student 183",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-183"
+    },
+    {
+        "registration_number": "U20230184",
+        "name": "Student 184",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-184"
+    },
+    {
+        "registration_number": "U20230185",
+        "name": "Student 185",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-185"
+    },
+    {
+        "registration_number": "U20230186",
+        "name": "Student 186",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-186"
+    },
+    {
+        "registration_number": "U20230187",
+        "name": "Student 187",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-187"
+    },
+    {
+        "registration_number": "U20230188",
+        "name": "Student 188",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-188"
+    },
+    {
+        "registration_number": "U20230189",
+        "name": "Student 189",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-189"
+    },
+    {
+        "registration_number": "U20230190",
+        "name": "Student 190",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-190"
+    },
+    {
+        "registration_number": "U20230191",
+        "name": "Student 191",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-191"
+    },
+    {
+        "registration_number": "U20230192",
+        "name": "Student 192",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-192"
+    },
+    {
+        "registration_number": "U20230193",
+        "name": "Student 193",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-193"
+    },
+    {
+        "registration_number": "U20230194",
+        "name": "Student 194",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-194"
+    },
+    {
+        "registration_number": "U20230195",
+        "name": "Student 195",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-195"
+    },
+    {
+        "registration_number": "U20230196",
+        "name": "Student 196",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-196"
+    },
+    {
+        "registration_number": "U20230197",
+        "name": "Student 197",
+        "department": "Electronics",
+        "year": 2024,
+        "seat_number": "A-197"
+    },
+    {
+        "registration_number": "U20230198",
+        "name": "Student 198",
+        "department": "Mechanical",
+        "year": 2024,
+        "seat_number": "A-198"
+    },
+    {
+        "registration_number": "U20230199",
+        "name": "Student 199",
+        "department": "Civil",
+        "year": 2024,
+        "seat_number": "A-199"
+    },
+    {
+        "registration_number": "U20230200",
+        "name": "Student 200",
+        "department": "Computer Science",
+        "year": 2024,
+        "seat_number": "A-200"
+    }
+]
+}
